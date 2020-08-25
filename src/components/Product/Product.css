@@ -1,0 +1,10 @@
+.product{
+    padding: 15px;
+    box-shadow: 5px 5px 5px lightgray;
+    color: rgb(9, 90, 70);
+}
+.product img{
+    margin-right: 20px;
+    padding: 30px;
+    border: 1px solid lightgray;
+}

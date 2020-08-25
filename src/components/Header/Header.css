@@ -1,0 +1,22 @@
+.header img{
+   height: 60px;
+}
+.header{
+    text-align: right;
+
+}
+.navBar{
+    background-color: rgb(54, 33, 33);
+    line-height: 45px;
+
+}
+.navBar a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+.navBar a:hover{
+    background-color:rgb(85, 11, 75);
+    color: rgb(228, 205, 205);
+}
